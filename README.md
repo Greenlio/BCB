@@ -1,15 +1,11 @@
 # Better Cookie Bot
-The project to beat the project.
-xqcL
+### Using Quick.db & Discord.js
 
-## Legal Mumbo Jumbo
+##### This was a quick personal project of mine but never ended up fully finishing (cleaning up code, proper checks etc) and felt like this may help people.
+##### A star is always appreciated. I am not updating this anymore, I will happily review pull requests though.
+##### If you have an issue with Quick.db Or Discord.js Go to one of these links:
 
-Baggie >
-
-Better Cookie Bot is not in any way related to Cookie Bot, as shown at MrBaggieBug/Cookie.
-
-MrBaggieBug is not related and should not be represented as a public figure out Better Cookie Bot.
-
-This project, unlike MrBaggieBug/Cookie, is licensed under MIT. It's because MrBaggieBug/Cookie uses GPL-3 that I have to say this.
-
-Not really, I don't care too much about licenses that deep, I'm just bored. xqcLL
++ [Quick.db Repo](https://github.com/TrueXPixels/quick.db)
++ [Quick.db Discord](https://discordapp.com/invite/plexidev)
++ [Discord.js Repo](https://github.com/discordjs/discord.js)
++ [Discord.js Discord](https://discordapp.com/invite/bRCvFy9)
